@@ -152,7 +152,7 @@
 
     alert('Order submitted!');
 
-    var discordWebhookURL = 'https://discordapp.com/api/webhooks/1175919403485909145/xCi-qx4oUFw-CVtfkVFYA9Oy9Mw47731oinEYTfHE3ZSouwRAV8akhri0-R_g4n0rN3k';
+    var discordWebhookURL = 'https://discord.com/api/webhooks/1185328834745204787/uKFX06dgIA9r4M4nM_iyC_iwo4Og5cEwHDOjDbQ2WW-McZzEO1zC0BtW81UMkr6JMN6L';
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
@@ -305,6 +305,22 @@ function resetCalculator() {
     <label for="Davechoice">Whiskey - 155$</label>
     <input type="number" value="1" min="1">
   </div>
+
+  <div style="margin-bottom: 10px;"></div>
+  
+  <h3> Discount Items</h3> 
+
+<div>
+  <input type="checkbox" id="50off" value="-50%">
+  <label for="50off">Employee Discount - 50% off</label>
+  <input type="number" value="1" min="1" max="1">
+</div>
+
+<div>
+  <input type="checkbox" id="25off" value="-25%">
+  <label for="30off">PD & EMS - 25% off</label>
+  <input type="number" value="1" min="1" max="1">
+</div>
   
 <div>
     <label for="name">Cashier's Name:</label>
