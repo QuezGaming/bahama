@@ -328,6 +328,8 @@ function resetCalculator() {
   <input type="number" value="1" min="1" max="1">
 </div>
   
+ <div style="margin-bottom: 25px;"></div>
+  
 <div>
     <label for="name">Cashier's Name:</label>
     <input type="text" id="name">
