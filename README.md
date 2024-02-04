@@ -233,11 +233,17 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
+    <input type="checkbox" id="uwueats" value="250$">
+    <label for="Velmachoice">Bahama Mamas - 250$</label>
+    <input type="number" value="1" min="1">
+  </div>
+ 
+   <div>
     <input type="checkbox" id="uwueats" value="150$">
     <label for="Velmachoice">Raspberry Mimosa - 150$</label>
     <input type="number" value="1" min="1">
   </div>
- 
+
   <div>
     <input type="checkbox" id="Davechoice" value="150$">
     <label for="Davechoice">Pina Colada - 150$</label>
