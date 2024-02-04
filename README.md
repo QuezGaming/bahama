@@ -221,7 +221,7 @@ function resetCalculator() {
 <div style="margin-bottom: 25px;"></div>
  
 <body style="background-color:gold;">
-	<img src="tequilala.png" alt="Company Logo!">
+	<img src="bahama.png" alt="Company Logo!">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
@@ -233,32 +233,32 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="100$">
-    <label for="Velmachoice">Raspberry Mimosa - 100$</label>
+    <input type="checkbox" id="uwueats" value="150$">
+    <label for="Velmachoice">Raspberry Mimosa - 150$</label>
     <input type="number" value="1" min="1">
   </div>
  
   <div>
-    <input type="checkbox" id="Davechoice" value="100$">
-    <label for="Davechoice">Pina Colada - 100$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Pina Colada - 150$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="145$">
-    <label for="Davechoice">Bloody Mary - 145$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Bloody Mary - 150$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Jagerbomb - 200$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Jagerbomb - 150$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="95$">
-    <label for="Davechoice">Shot of Vodka - 95$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Shot of Vodka - 150$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -267,14 +267,14 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="75$">
-    <label for="Velmachoice">Sweet Lemonade - 75$</label>
+    <input type="checkbox" id="uwueats" value="100$">
+    <label for="Velmachoice">Lemonade - 100$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="55$">
-    <label for="Davechoice">Coke - 55$</label>
+    <input type="checkbox" id="Davechoice" value="100$">
+    <label for="Davechoice">Coke - 100$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -283,8 +283,8 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="100$">
-    <label for="Velmachoice">Rum - 100$</label>
+    <input type="checkbox" id="uwueats" value="150$">
+    <label for="Velmachoice">Rum - 150$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -295,14 +295,14 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="125$">
-    <label for="Davechoice">Wine- 125$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Wine- 150$</label>
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="155$">
-    <label for="Davechoice">Whiskey - 155$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Whiskey - 150$</label>
     <input type="number" value="1" min="1">
   </div>
 
